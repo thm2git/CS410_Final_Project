@@ -1,0 +1,84 @@
+The Supreme Court case that could shut down Trump’s election theft trial, explained
+Trump claims that when the president tries to steal an election, it’s not illegal.
+
+In 1970, then-President Richard Nixon briefly authorized an illegal plan to spy on left-wing activists within the United States. His defense is rarely quoted except as an example of presidential villainy.
+
+“When the president does it,” Nixon told journalist David Frost in 1977, “that means that it is not illegal.”
+
+Now, former President Donald Trump wants the Supreme Court to do two seemingly contradictory things. He wants the justices to turn Nixon’s long-ago defense of a largely forgotten spy program into a constitutional rule protecting former presidents from federal prosecution. And he wants the Court to drag its feet as much as possible while doing so.
+
+This uniquely Trumpy proposal — to shut down the federal criminal case arising out of his efforts to steal the 2020 election, and to do so very, very slowly — is now before the Supreme Court in the case United States v. Trump.
+
+Meanwhile, on Monday, Special Counsel Jack Smith, the lead prosecutor in two federal criminal cases against Trump, effectively asked the Supreme Court to do the opposite of what Trump wants. Smith wants the Supreme Court to decide that Trump is not immune from being prosecuted for his attempted election theft, and he wants the Court to do so as quickly as possible.
+
+This is the first dispute involving the criminal allegations against Trump to reach the Supreme Court, but it is unlikely to be the last. On Wednesday, the Court announced that it would hear a different case involving one of the individuals who invaded the US Capitol on January 6, 2021, which could potentially undercut many of the charges against Trump.
+
+No former president has ever been indicted, not to mention a former president who is likely to be his party’s candidate for the White House again. The Trump prosecutions raise novel legal issues, many under the First Amendment, that have never arisen before. And if the Supreme Court does not provide answers to these open questions — and quickly — Trump could very well escape justice altogether.
+
+Trump’s motives for trying to string this case out as long as possible are not hard to suss out. If Trump can delay his criminal trials until after the 2024 presidential election, he may very well prevail in that election — and then he can use his authority as president to order these prosecutions shut down.
+
+Trump’s criminal trial for attempted election theft is currently on pause while this appeal plays out. And, as Smith told the Supreme Court, may potentially be suspended until the question of whether Trump is immune from prosecution is resolved.
+
+The specific issue Smith is currently asking the Court to resolve is whether Trump is immune from prosecution for crimes he committed while in office. Smith’s other case against Trump, a separate prosecution concerning Trump’s theft of classified documents, could still proceed, since it concerns his retention of documents after he left office.
+
+But the documents case is also assigned to Judge Aileen Cannon, a Trump appointee who has acted as if she was a member of Trump’s defense team. So, realistically, the election theft case may be Smith’s only real shot at convicting the former president. (In addition to these two federal cases, Trump also faces state criminal charges in New York and Georgia.)
+
+There are early signs that the justices are likely to move on Smith’s schedule. Just hours after Smith asked the Court to rule on Trump’s immunity claim on an expedited basis, the justices granted Smith’s motion to expedite the case. That’s only a preliminary order, which explicitly says nothing about whether the Supreme Court will even hear this case to begin with. But the justices rarely move so quickly on any matter that comes before them, even a scheduling order.
+
+It seems likely, in other words, that the Supreme Court is going to weigh in very soon on the election theft case. And, while Trump’s legal arguments in the current dispute before the justices are weak and most likely will not persuade a majority of the Court, this is also unlikely to be the first time the justices are asked to weigh in on Trump’s many criminal proceedings.
+
+If the Supreme Court does not resolve all of these looming issues quickly, there is a serious risk that Trump will never face judgment for his actions.
+
+So what is the legal issue before the Supreme Court?
+Smith’s recent petition in the Trump case involves two closely related legal issues: whether Trump is “absolutely immune from federal prosecution for crimes committed while in office,” and whether the Constitution’s Double Jeopardy Clause prevents Trump from being prosecuted because he was impeached for his attempts to overthrow the 2020 election, but only a majority of senators — and not the supermajority required for conviction — voted in favor of convicting Trump.
+
+Trump’s Double Jeopardy argument can be disposed of in a few sentences. The Fifth Amendment provides that no one shall be “subject for the same offence to be twice put in jeopardy of life or limb,” a provision the Supreme Court has long read to protect “only against the imposition of multiple criminal punishments for the same offense.”
+
+But Trump never faced the possibility of criminal punishment in his two impeachment proceedings. The Constitution states that the only consequences that can be imposed are “removal from office, and disqualification to hold and enjoy any office of honor, trust or profit under the United States.” Losing your job, or being told that you cannot get that job back, are not criminal consequences.
+
+Trump’s broader immunity argument, meanwhile, is not so simple that it can be explained away in a couple of paragraphs. But it still is not an argument that should prevail.
+
+As a general rule, all government officials enjoy some sort of immunity from civil lawsuits — that is, noncriminal suits typically filed by private citizens. As the Supreme Court explained in Harlow v. Fitzgerald (1982), this immunity exists to avoid “distraction of officials from their governmental duties, inhibition of discretionary action, and deterrence of able people from public service.” If government officials have to live in constant fear of being sued by anyone who disapproves of their decisions, they may not make the best decisions. And good people may avoid government service altogether.
+
+Most government officials only have “qualified” immunity from civil suits — meaning that they can still be sued if their actions violate clearly established law. But the Supreme Court has said that a small list of government officials, including judges, prosecutors, and the president, have “absolute” immunity from civil suits.
+
+Even the “absolute” immunity afforded to these officials is not entirely absolute, however. In Clinton v. Jones (1997), for example, the Supreme Court held that then-President Bill Clinton could be sued for alleged misconduct unrelated to his presidential duties. According to Jones, “the principal rationale for affording certain public servants immunity from suits for money damages arising out of their official acts is inapplicable to unofficial conduct.”
+
+This is because absolute immunity is intended to enable “such officials to perform their designated functions effectively without fear that a particular decision may give rise to personal liability,” not to shield government officials from consequences when they misbehave in their personal lives.
+
+And, the absolute immunity enjoyed by judges, prosecutors, and presidents extends only to civil, and not criminal, proceedings. The Court explained why in Nixon v. Fitzgerald (1982), a case holding that former President Richard Nixon was immune from a civil lawsuit concerning his official conduct as president.
+
+“In view of the visibility of his office and the effect of his actions on countless people,” the Nixon opinion warned, “the President would be an easily identifiable target for suits for civil damages.” Such vulnerability to a wave of lawsuits, the Court feared, “could distract a President from his public duties, to the detriment of not only the President and his office but also the Nation that the Presidency was designed to serve.”
+
+But this rationale does not apply to federal criminal proceedings. Anyone can file a civil lawsuit at any time, so a high-profile official like the president could potentially face thousands of nuisance lawsuits filed by their disgruntled constituents if the president is not immune from those suits. Federal criminal proceedings, by contrast, may only be initiated by the Department of Justice — and then only after the DOJ presents its evidence to a grand jury and the grand jury signs off on an indictment. So there isn’t the same risk that a president will be overwhelmed by a wave of suits filed by many different litigants.
+
+Donald Trump is the first former president in American history to be indicted for a crime, so there is no Supreme Court decision stating explicitly that former presidents are not immune from criminal sanction. But it is well established that other officials who enjoy absolute immunity from civil suits, such as judges and prosecutors, may be prosecuted. Former federal Judge Alcee Hastings, for example, faced both an (unsuccessful) criminal trial and a (successful) impeachment proceeding after he was accused of handing down a lenient sentence to two criminal defendants in return for a bribe.
+
+Indeed, Trump’s claim that he is immune from prosecution for actions taken while he was in office is quite novel. The Office of Legal Counsel, an office within the Justice Department that interprets the Constitution for the executive branch of government, has maintained since at least the 1970s that a former president may “be subject to criminal process … after he leaves office or is removed therefrom through the impeachment process.” President Gerald Ford pardoned former President Richard Nixon for crimes Nixon allegedly committed in office — a pardon that would have been completely unnecessary if Nixon were immune from prosecution.
+
+Even Nixon does not appear to have believed that former presidents are immune from prosecution. Read in context, Nixon’s infamous 1977 statement that the president can transform an illegal action into a legal one does not imply that Nixon himself was immune from prosecution. Rather, Nixon was saying that government officials who take certain illegal actions with the president’s approval should not face criminal consequences for doing so.
+
+All of which is a long way of saying that Trump’s immunity argument should fail. The United States is a republic and not a monarchy. That means that government officials do not own their offices as if they are property. When they leave office, they become private citizens subject to the same criminal laws as everyone else.
+
+The Supreme Court needs to give Trump’s trial judge as much guidance as possible on how to conduct his criminal trial
+Smith’s recent petition asking the justices to decide this immunity question is unlikely to be the Trump case’s first trip to the Supreme Court. It isn’t even the only case the justices have handled this week which has implications for Trump’s prosecution.
+
+On Wednesday, the Court announced that it would hear Fischer v. United States, a case asking whether a federal law that makes it a crime to impede an official government proceeding should be read narrowly — if it should only apply to evidence tampering and similar actions. Trump is charged under this same criminal statute in his election theft case, so the Court’s decision in Fischer could jeopardize Smith’s ability to convict Trump.
+
+Similarly, last week, a federal appeals court largely upheld a gag order that Judge Tanya Chutkan, the judge hearing Trump’s election theft case, imposed on the former president to keep him from intimidating witnesses or tampering with the jury pool. These sorts of gag orders are common, at least in cases where the defendant has made public statements that could taint their trial. But there’s never been a case where a criminal defendant was also likely to be a major party’s nominee for president, so this gag order raises novel First Amendment questions that will likely need to be resolved by the Supreme Court.
+
+The first criminal trial of a former president, let alone a former president who is actively campaigning to get his old job back, will undoubtedly raise a whole host of legal questions that have never arisen before — and thus cannot be resolved simply by citing an existing precedent.
+
+For example, how should Chutkan screen jurors to ensure that they are not impermissibly biased either for or against Defendant Trump? Suppose that Smith moves to remove a potential juror from the jury pool because that juror is a regular Fox News watcher who has attended three Trump rallies. Or that Trump’s lawyers ask Chutkan to remove a potential juror who donated the maximum amount allowed under federal law to President Joe Biden.
+
+There are obviously precedents for courts trying high-profile figures, but Trump may be the most famous and most politically polarizing criminal defendant in American history. His case is likely to raise a whole host of legal questions that have never been considered by federal courts.
+
+Ordinarily, good judges decide cases narrowly, and avoid answering legal questions that are not formally presented in the specific case that is before them. The federal judiciary has strong norms, stretching all the way back to the George Washington administration, against handing down “advisory opinions” — opinions that decide issues that are not presently before the court.
+
+But the American people need to know whether one of the two leading candidates for president will be convicted of very serious crimes — and they need to know it before the election this November. Judge Chutkan needs to know how to conduct Trump’s trial in a way that won’t open her up to being reversed. And, if Trump is convicted and appeals, voters would likely be confused if the Supreme Court tossed that conviction out — especially if the Court does so for legal reasons that don’t actually bear on Trump’s guilt or innocence, and does so close to Election Day.
+
+In late October 2016, in an egregious violation of Justice Department rules forbidding DOJ officials from interfering with federal elections, then-FBI Director James Comey announced that the FBI was reopening an investigation into Democratic candidate Hillary Clinton’s use of a private email account to conduct work business (the investigation was then reclosed nine days later). That announcement, and the media frenzy it inspired, likely cost Clinton the nail-bitingly close 2016 election.
+
+The same thing could happen if, just days or weeks before the 2024 election, the Supreme Court hands down a decision tossing out Trump’s criminal conviction because of some novel legal issue that neither Smith nor Judge Chutkan could have reasonably anticipated.
+
+For all of these reasons, the Supreme Court must provide Chutkan with as much guidance as possible about how Trump’s trial should be conducted, and it must do so as soon as possible. History should not turn on a legal technicality that the justices unexpectedly latch onto in the fall of 2024.
