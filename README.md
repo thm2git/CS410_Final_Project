@@ -147,7 +147,13 @@ I did find it fun to use another person's previous project as a basis to see how
 
 Overall though, I was impressed by the accuracy of the analyzer. I think this could be due to a lot of reasons, not all of them positive. For one I feel the test set may have been a bit too similar to the training set and thus the versatility was not tested for. However, overall I think this is a good example of it being very possible for algorithms to assist us in understanding political bias.
 
-![image](https://user-images.githubusercontent.com/111945641/206090707-1b3f69ad-e2bc-4379-bc43-6503c2ce24e1.png)
+![image](https://github.com/thm2git/CS410_Final_Project/assets/111996907/e50b96f8-ac03-4bd7-a48b-d63df7396ff7)
+
+
+![image](https://github.com/thm2git/CS410_Final_Project/assets/111996907/970fa68c-8b05-46c3-a56c-2207fc4f2ccb)
+
+
+![image](https://github.com/thm2git/CS410_Final_Project/assets/111996907/96ddd482-7931-45e3-91da-1ab24ac3986c)
 
 
 # Team Contributions:
