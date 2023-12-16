@@ -1,8 +1,6 @@
 # CS410_Final_Project - Political Bias Analyzer
 Teague Mitchell
 
-Video Link: 
-
 # Overview:
 The purpose of this project was to create a tool that could read the text of a political article and determine the bias of its source/writing. It takes in the input of an article and gives an output of a bias, either left, center, or right. It also gives the second most likely bias, which can be useful for identifying crossover between biases, such as center left or center right articles. This is accomplished by comparing similarities between the input article and the training dataset, and finding the highest likelihood. I think this kind of analysis can be useful for identifying similarites and differences in political outlooks in the US. I used abedoyans movie genre analyzer (linked below) as an inspiration and basis for starting this project, but found that many changes needed to be made to accomodate articles and bias being different from movies and genre.
 
