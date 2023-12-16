@@ -145,11 +145,9 @@ I also think the similarity measure used for this project probably isn't ideal f
 
 I did find it fun to use another person's previous project as a basis to see how it could work under a different angle. It was tough because with updates and other potential qualifiers I found it initially quite difficult to get their code functioning, and I had to do some tough debugging. In particular, the codec decoding with text files was a big challenge that I eventually fixed by forcing different codecs until I found one that worked well and seemed to match. Overall though, I feel I wasn't able to innovate as much as I would have liked due to these difficulties, so I found that to be the metaphorical double-edged sword aspect of it.
 
-Overall though, I was impressed by the accuracy of the analyzer. I think this could be due to a lot of reasons, not all of them positive. For one I feel the test set may have been a bit too similar to the training set and thus the versatility was not tested for. However, overall I think this is a good example of it being very possible for algorithms to assist us in understanding political bias.
+Overall though, I was impressed by the accuracy of the analyzer. I think this could be due to a lot of reasons, not all of them positive. For one I feel the test set may have been a bit too similar to the training set and thus the versatility was not tested for. I find it interesting that the leaning right articles struggled to classify any as having a right bias, and that left biases were a lot more common among publications called center biased. It's also interesting to me that many articles have a secondary label that is more than one step away, such as left and right. I think this shows how often left and right perspectives can be more similar than a center approach. In general, I think this project is a good example of it being very possible for algorithms to assist us in understanding political bias.
 
 ![image](https://github.com/thm2git/CS410_Final_Project/assets/111996907/e50b96f8-ac03-4bd7-a48b-d63df7396ff7)
-
-
 ![image](https://github.com/thm2git/CS410_Final_Project/assets/111996907/970fa68c-8b05-46c3-a56c-2207fc4f2ccb)
 ![image](https://github.com/thm2git/CS410_Final_Project/assets/111996907/96ddd482-7931-45e3-91da-1ab24ac3986c)
 
