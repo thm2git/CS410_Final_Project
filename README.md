@@ -151,8 +151,6 @@ Overall though, I was impressed by the accuracy of the analyzer. I think this co
 
 
 ![image](https://github.com/thm2git/CS410_Final_Project/assets/111996907/970fa68c-8b05-46c3-a56c-2207fc4f2ccb)
-
-
 ![image](https://github.com/thm2git/CS410_Final_Project/assets/111996907/96ddd482-7931-45e3-91da-1ab24ac3986c)
 
 
